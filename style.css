@@ -1,0 +1,10 @@
+h1, h2{
+  text-align: center;
+  font-family: "Righteous", SansSerif;
+}
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  color: lightseagreen;
+  margin: 5%;
+}
